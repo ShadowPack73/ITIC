@@ -86,19 +86,19 @@ a {
     color: white;
 }
 
-.html-css {
-    width: 70%;
-    background-color: #4CAF50;
+.dev {
+    width: 75%;
+    background-color: #FF0000;
 }
 
-.java {
-    width: 65%;
-    background-color: #2196F3;
+.assi {
+    width: 90%;
+    background-color: #0000FF;
 }
 
-.python {
+.adsr {
     width: 60%;
-    background-color: #f44336;
+    background-color: #00FF00;
 }
 
 /* Bouton CV et Contact */
